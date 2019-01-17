@@ -1,0 +1,32 @@
+<h3>{{titulo}}</h3>
+<hr/>
+
+<form #formTarea="ngForm" (ngSubmit)="onSubmit()" class="col-lg-6" id="form-tarea">
+
+	<label>
+		Nombre
+		<span *ngIf="!nombre.valid && nombre.touched" class="label label-danger">El nombre es obligatorio</span>
+	</label>
+	<input type="text" #nombre="ngModel" name="nombre" [(ngModel)]="tarea.nombre" class="form-control" required />
+
+	<label>
+		Descripción
+		<span *ngIf="!descripcion.valid && descripcion.touched" class="label label-danger">La descripción es obligatorio</span>
+	</label>
+	<textarea #descripcion="ngModel" name="descripcion" [(ngModel)]="tarea.descripcion" class="form-control" required></textarea>
+
+	<label>
+		Fecha
+	</label>
+	<input type="date" #fecha="ngModel" name="fecha" [(ngModel)]="tarea.fecha" class="form-control">
+
+	<label>Imagen</label>
+	<div *ngIf="is_edit">
+		<img src="http://localhost/prueba-ci2-backend/uploads/{{tarea.imagen}}" width="60"/>
+	</div>
+	<input type="file" class="form-control" (change)="fileChangeEvent($event)"/>
+
+	<br/>
+	<input type="submit" value="{{titulo}}" [disabled]="!formTarea.form.valid" class="btn btn-success"/>
+	<a [routerLink]="['/tareas']" class="btn btn-danger">Cancelar</a>
+</form>

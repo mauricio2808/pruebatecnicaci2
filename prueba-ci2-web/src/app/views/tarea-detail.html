@@ -1,0 +1,15 @@
+<div *ngIf="!tarea">
+	<p>Cargando producto...</p>
+</div>
+<div class="row" *ngIf="tarea">
+	<div class="col-lg-4" *ngIf="tarea.imagen">
+		<br>
+		<img src="http://localhost/prueba-ci2-backend/uploads/{{tarea.imagen}}" class="tarea_imagen"/>
+	</div>
+	<div class="col-lg-10">
+		<h3>{{tarea.nombre}}</h3>
+		<p><strong>{{tarea.fecha}} </strong></p>
+		<p>{{tarea.descripcion}}</p>
+		<a [routerLink]="['/tareas']" class="btn btn-danger">Cancelar</a>
+	</div>
+</div>

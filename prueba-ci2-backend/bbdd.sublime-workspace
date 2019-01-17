@@ -1,0 +1,312 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"data"
+			],
+			[
+				"prue",
+				"prueba-ci2"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"in",
+				"insert"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/prueba-ci2-backend/bbdd1.sql",
+		"/C/wamp64/www/prueba-ci2-backend/index1.php",
+		"/C/wamp64/www/prueba-ci2-backend/bbdd.sql",
+		"/C/wamp64/www/prueba-ci2-backend/index.php",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DIa0.167/index.php",
+		"/C/wamp64/www/prueba-ci2-backend/composer.json",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/wamp64/bin/apache/apache2.4.35/conf/httpd.conf",
+		"/C/xampp/apache/modules/mod_headers.so",
+		"/C/cygwin_packages/home/Usuario/.bash_profile",
+		"/D/Users/Usuario/Documents/prueba/gulpfile.js",
+		"/D/Users/Usuario/Documents/prueba/package.json",
+		"/C/xampp/htdocs/rockbike5/index.php",
+		"/C/xampp/htdocs/rockbike5/wp-content/themes/shop-elite/woocommerce/add-to-wishlist-button.php",
+		"/C/xampp/htdocs/rockbike5/wp-content/themes/shop-elite/woocommerce/add-to-wishlist.php",
+		"/C/xampp/htdocs/rockbike5/wp-content/index.php",
+		"/D/Users/Usuario/Documents/herramienta/MiTemplate/Views/Home/Contact.cshtml",
+		"/D/Users/Usuario/Documents/herramienta/VistasParciales/VistasParciales/Content/Site.css",
+		"/D/Users/Usuario/Documents/Visual Studio 2015/Projects/video/video/OrderDetails.cs",
+		"/D/Users/Usuario/Documents/Visual Studio 2015/Projects/video/video/MyModel.Designer.cs",
+		"/D/Users/Usuario/Documents/Visual Studio 2015/Projects/video/video/MyModel.cs",
+		"/D/Users/Usuario/Documents/Visual Studio 2015/Projects/video/video/MyModel.Context.cs",
+		"/D/Users/Usuario/Documents/Visual Studio 2015/Projects/video/video/Global.asax.cs",
+		"/D/Users/Usuario/Documents/Visual Studio 2015/Projects/video/video/Category.cs",
+		"/D/Users/Usuario/Documents/Visual Studio 2015/Projects/video/video/Categories.cs",
+		"/D/Users/Usuario/Documents/Visual Studio 2015/Projects/video/video/Ordermaster.cs",
+		"/D/Users/Usuario/Documents/Visual Studio 2015/Projects/video/video/Products.cs",
+		"/D/Users/Usuario/Documents/Visual Studio 2015/Projects/video/video/video.csproj",
+		"/D/Users/Usuario/Documents/Visual Studio 2015/Projects/video/video/Controllers/HomeController.cs",
+		"/C/xampp/htdocs/Rockbike/wp-config.php",
+		"/C/xampp/htdocs/Rockbike/wp-content/plugins/businessx-extensions/inc/customizer/sections-widgets/init.php",
+		"/C/xampp/phpMyAdmin/libraries/config.default.php",
+		"/C/xampp/htdocs/Girod/index.php",
+		"/D/Users/Usuario/Pictures/css/style.css",
+		"/D/Users/Usuario/Documents/herramienta/MiTemplate/App_Start/Startup.Auth.cs",
+		"/D/Users/Usuario/Documents/herramienta/MiTemplate/Content/estilos/style.css",
+		"/C/xampp/htdocs/rockbike/wp-content/themes/onepress/section-parts/section-gallery.php",
+		"/C/xampp/htdocs/rockbike/wp-content/themes/onepress/template-parts/content.php",
+		"/C/xampp/htdocs/rockbike/wp-content/themes/onepress/template-parts/content-none.php",
+		"/d/Users/Usuario/Documents/analisis/lab10-joan_cepeda/my_trapezoidal_function_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/herramienta/startbootstrap-agency-gh-pages/vendor/bootstrap/css/bootstrap.min.css",
+		"/D/Users/Usuario/Documents/herramienta/templatemo_506_tinker/index.html",
+		"/C/xampp/htdocs/rockbike/wp-content/themes/onepress/style.css",
+		"/C/xampp/htdocs/rockbike/wp-content/themes/onepress/rtl.css",
+		"/C/xampp/htdocs/rockbike/wp-content/themes/onepress/assets/css/lightgallery.css",
+		"/C/xampp/htdocs/rockbike/wp-content/themes/onepress/template-parts/content-list.php",
+		"/C/xampp/htdocs/rockbike/wp-content/themes/onepress/page.php",
+		"/d/Users/Usuario/Documents/analisis/lab10-joan_cepeda/Inter3.4_Simpson_Johan_Cepeda.m",
+		"/d/Users/Usuario/Documents/analisis/lab10-joan_cepeda/Inter3.4_trapezoidal_Johan_Cepeda.m",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DIa0.637/run_3a_Sergio_Contreras.m",
+		"/d/Users/Usuario/Documents/analisis/lab10-joan_cepeda/run_3b_Johan_Cepeda.m",
+		"/d/Users/Usuario/Documents/analisis/lab10-joan_cepeda/run_3a_Johan_Cepeda.m",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DIa0.908/my_simpson_function_Carlos_Gomez.m",
+		"/d/Users/Usuario/Documents/analisis/lab10-joan_cepeda/my_simpson_function_Johan_Cepeda.m",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DIa0.202/my_simpson_function_Sergio_Contreras.m",
+		"/D/Users/Usuario/Documents/analisis/Lab10_Sergio_Contreras",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DIa0.791/my_trapezoidal_function_Carlos_Gomez.m",
+		"/d/Users/Usuario/Documents/analisis/labo_9/difflim_Johan_Cepeda_6.m",
+		"/D/Users/Usuario/Documents/analisis/labo_9/difflim_Johan_Cepeda_12.m",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DIa0.405/my_simpson_function_Carlos_Gomez.m",
+		"/d/Users/Usuario/Documents/analisis/labo_9/difflim_Johan_Cepeda_12.m",
+		"/D/Users/Usuario/Documents/analisis/labo_9/difflim_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/analisis/labo_9/run_2b_Johan_Cepeda.m",
+		"/d/Users/Usuario/Documents/analisis/labo_9/difflim_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/analisis/labo_9/run_2c_Johan_Cepeda.m",
+		"/D/Users/Usuario/Pictures/Laboratorio9_Sergio_Contreras/difflim_Sergio_Contreras.m",
+		"/D/Users/Usuario/Pictures/Laboratorio9_Sergio_Contreras/difflim_Sergio_Contreras12.m",
+		"/D/Users/Usuario/Documents/analisis/labo_9/Run_1a_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/analisis/labo_9/run_2a_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/analisis/labo_9/run_1b_Johan_Cepeda.m",
+		"/d/Users/Usuario/Documents/analisis/labo_9/run_2c_Johan_Cepeda.m",
+		"/d/Users/Usuario/Documents/analisis/labo_9/run_2b_Johan_Cepeda.m",
+		"/d/Users/Usuario/Documents/analisis/labo_9/run_2a_Johan_Cepeda.m",
+		"/d/Users/Usuario/Documents/analisis/labo_9/Run_1a_Johan_Cepeda.m",
+		"/d/Users/Usuario/Documents/analisis/labo_9/run_1b_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/analisis/labo_9/punto1.m",
+		"/D/Users/Usuario/Pictures/Laboratorio9_Sergio_Contreras/difflim_Sergio_Contreras6.m",
+		"/D/Users/Usuario/Documents/analisis/labo_9/punto2.m",
+		"/D/Users/Usuario/Documents/analisis/labo_9/difflim.m",
+		"/D/Users/Usuario/Pictures/Lab9_CarlosGomez/punto2.m",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DIa0.503/punto1.m",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DIa0.474/punto2.m",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DIa0.390/difflim.m",
+		"/D/Users/Usuario/Documents/analisis/labo8/run_3c_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/analisis/labo8/run_4_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/analisis/labo8/run_3b_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/analisis/labo8/run_3a_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/analisis/labo8/run_2b_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/analisis/labo8/run_2a_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/analisis/labo8/run_1b_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/analisis/labo8/lsline_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/analisis/labo8/run_1a_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/analisis/labo8/calcErrC2_Johan_Cepeda.m",
+		"/d/Users/Usuario/Documents/analisis/labo8/run_3b_Johan_Cepeda.m",
+		"/d/Users/Usuario/Documents/analisis/labo8/run_3a_Johan_Cepeda.m",
+		"/d/Users/Usuario/Documents/analisis/labo8/run_2b_Johan_Cepeda.m",
+		"/d/Users/Usuario/Documents/analisis/labo8/run_2a_Johan_Cepeda.m",
+		"/d/Users/Usuario/Documents/analisis/labo8/run_1b_Johan_Cepeda.m",
+		"/d/Users/Usuario/Documents/analisis/labo8/lsline_Johan_Cepeda.m",
+		"/d/Users/Usuario/Documents/analisis/labo8/run_1a_Johan_Cepeda.m",
+		"/D/Users/Usuario/Downloads/run_planetas.m",
+		"/d/Users/Usuario/Documents/analisis/labo8/run_4_Johan_Cepeda.m",
+		"/d/Users/Usuario/Documents/analisis/labo8/calcErrC2_Johan_Cepeda.m",
+		"/D/Users/Usuario/Downloads/planetas.m",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DIa0.279/calcErrC2_Julian_Hernandez.m",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DIa0.197/lsline_Julian_Hernandez.m",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DIa0.339/run_3a_Johan_Cepeda.m",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DIa0.020/run_4a_Johan_Cepeda.m",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DIa0.927/my_lu_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/analisis/labo5/my_lu_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/analisis/labo5/run_4a_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/analisis/labo5/run_3a_Johan_Cepeda.m",
+		"/d/Users/Usuario/Documents/analisis/labo5/run_3a_Johan_Cepeda.m",
+		"/d/Users/Usuario/Downloads/my_lu_Johan_Cepeda.m",
+		"/d/Users/Usuario/Documents/analisis/labo5/run_4a_Johan_Cepeda.m",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DIa0.962/run_4a_Angelica_Basto.m",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DIa0.501/My_lu_Angelica_Basto.m",
+		"/d/Users/Usuario/Documents/my_newton_function_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/analisis/Lab4_Johan_Cepeda/my_newton_function_Johan_Cepeda.m",
+		"/D/Users/Usuario/Documents/analisis/Lab4_Johan_Cepeda/my_visual_newton_function_Johan_Cepeda.m",
+		"/C/xampp/phpMyAdmin/setup/frames/index.inc.php",
+		"/C/xampp/htdocs/drupal/themes/bartik/templates/comment.tpl.php",
+		"/C/xampp/htdocs/drupal/themes/bartik/templates/node.tpl.php",
+		"/C/xampp/htdocs/drupal/themes/bartik/templates/page.tpl.php",
+		"/C/xampp/htdocs/drupal/modules/user/user-profile-category.tpl.php",
+		"/C/xampp/htdocs/drupal/modules/profile/profile-block.tpl.php",
+		"/C/xampp/htdocs/naturalbiocare/php.ini.ini",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DIa0.045/my_visual_newton_function_Johan_Cepeda.m"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bbdd.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
